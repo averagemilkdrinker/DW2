@@ -1,0 +1,2 @@
+docker stop dockeropdrachtcontainer
+docker rm dockeropdrachtcontainer
