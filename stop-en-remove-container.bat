@@ -1,2 +1,2 @@
-docker stop dockeropdrachtcontainer
-docker rm dockeropdrachtcontainer
+docker stop containerartjom
+docker rm containerartjom

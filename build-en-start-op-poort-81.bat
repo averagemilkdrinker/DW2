@@ -1,2 +1,2 @@
-docker build -t dockeropdrachtimage:tag1 .
-docker run -dt --name dockeropdrachtcontainer dockeropdrachtimage:tag1 –p 81:80
+docker build -t imagenginx:tag1 .
+docker run --name containerartjom -dt -p 81:80 imagenginx:tag1
